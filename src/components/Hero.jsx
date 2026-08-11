@@ -26,7 +26,7 @@ const Hero = () => {
         <img
           src={assets.hero_img}
           alt="hero_img"
-          className="w-full max-w-6xl"
+          className="w-full max-w-4xl rounded-2xl"
         />
         <img
           src={assets.bgImage1}
